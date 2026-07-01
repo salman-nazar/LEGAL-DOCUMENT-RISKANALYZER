@@ -7,7 +7,6 @@ The AI-Powered Contract & Legal Document Risk Analyzer is designed to simplify t
 This project demonstrates the practical use of Natural Language Processing (NLP), text extraction, and rule-based artificial intelligence techniques to solve a real-world business problem.
 
 ---
-
 # Features
 
 * User Registration and Login
