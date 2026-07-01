@@ -1,0 +1,15 @@
+streamlit
+pandas
+
+PyPDF2
+pdfplumber
+python-docx
+
+reportlab
+
+spacy
+nltk
+
+bcrypt
+
+Pillow
